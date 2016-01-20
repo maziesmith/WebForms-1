@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    @if (ViewData["Error"] != null)
+    {
+        <span>@ViewData["Error"]</span>
+    }
+    <form>
+        <input type="text" name="firstNumber" />
+        <span> + </span>
+        <input type="text" name="secondNumber" />
+        <span> = </span>
+        <span id="result">@ViewData["result"]</span>
+        <input type="submit" value=" Calculate " />
+    </form>
+</div>
