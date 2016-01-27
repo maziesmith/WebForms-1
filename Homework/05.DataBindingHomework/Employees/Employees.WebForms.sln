@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.WebForms", "Employees.WebForms\Employees.WebForms.csproj", "{8D846509-3033-4CA5-AD5A-B95575625EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Data", "Northwind.Data\Northwind.Data.csproj", "{B675B4A4-315B-4495-B67B-0DF9CF836501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D846509-3033-4CA5-AD5A-B95575625EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D846509-3033-4CA5-AD5A-B95575625EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D846509-3033-4CA5-AD5A-B95575625EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D846509-3033-4CA5-AD5A-B95575625EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B675B4A4-315B-4495-B67B-0DF9CF836501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B675B4A4-315B-4495-B67B-0DF9CF836501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B675B4A4-315B-4495-B67B-0DF9CF836501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B675B4A4-315B-4495-B67B-0DF9CF836501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
