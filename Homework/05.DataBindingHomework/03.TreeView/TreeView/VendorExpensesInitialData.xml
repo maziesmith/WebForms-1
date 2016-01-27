@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomerOrders>
+  <Customers>
+    <CustomerID>ALFKI</CustomerID>
+    <Orders>
+      <OrderID>10643</OrderID>
+      <CustomerID>ALFKI</CustomerID>
+      <OrderDate>1997-08-25</OrderDate>
+    </Orders>
+    <Orders>
+      <OrderID>10692</OrderID>
+      <CustomerID>ALFKI</CustomerID>
+      <OrderDate>1997-10-03</OrderDate>
+    </Orders>
+    <CompanyName>Alfreds Futterkiste</CompanyName>
+  </Customers>
+  <Customers>
+    <CustomerID>ANATR</CustomerID>
+    <Orders>
+      <OrderID>10308</OrderID>
+      <CustomerID>ANATR</CustomerID>
+      <OrderDate>1996-09-18</OrderDate>
+    </Orders>
+    <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+  </Customers>
+</CustomerOrders>
